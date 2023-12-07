@@ -9,4 +9,4 @@ export function Router() {
       <Route path="/history" element={<History />} />
     </Routes>
   )
-} 
+}
