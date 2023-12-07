@@ -7,7 +7,7 @@ interface ButtonProps {
 export function Button({ variant = 'primary' }: ButtonProps) {
   return (
     <ButtonContainer variant={variant}>
-      Emviar
+      Enviar
     </ButtonContainer>
   )
 }
